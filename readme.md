@@ -87,7 +87,7 @@ print(f'Number of missing values: ')
 ### Tesla Stock Price v.s. Search Volume
 **Challenge:** Plot the Tesla stock price against the Tesla search volume using a line chart and two different axes. Label one axis 'TSLA Stock Price' and the other 'Search Trend'. 
 
-[stock image](https://github.com/frozzel/Google-Trends/blob/ea98aab48edbb6cf55849457c4822cd4ff73cd23/assets/sc1.png)
+![stock image](https://github.com/frozzel/Google-Trends/blob/ea98aab48edbb6cf55849457c4822cd4ff73cd23/assets/sc1.png)
 
 **Challenge**: Add colours to style the chart. This will help differentiate the two lines and the axis labels. Try using one of the blue [colour names](https://matplotlib.org/3.1.1/gallery/color/named_colors.html) for the search volume and a HEX code for a red colour for the stock price. 
 <br>
