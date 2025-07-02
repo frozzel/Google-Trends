@@ -33,8 +33,12 @@ df_unemployment = pd.read_csv('UE Benefits Search vs UE Rate 2004-19.csv')
 <li>What does a value of 100 in the Google Trend search popularity actually mean?</li>
 </ul>
 
+
+```python3
 print(f'Largest value for Tesla in Web Search: ')
+
 print(f'Smallest value for Tesla in Web Search: ')
+```
 
 ### Unemployment Data
 
