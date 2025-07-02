@@ -9,8 +9,12 @@ Data Sources: <br>
 <li> <a href="https://finance.yahoo.com/quote/BTC-USD/history?p=BTC-USD">Yahoo Finance for Bitcoin Stock Price</a> </li>
 </ul>
 # Import Statements
+
+```python3
 import pandas as pd
 import matplotlib.pyplot as plt
+```
+
 # Read the Data
 
 Download and add the .csv files to the same folder as your notebook.
