@@ -51,8 +51,11 @@ print(f'Smallest value for Tesla in Web Search: ')
 
 ### Unemployment Data
 
+```python3
 print('Largest value for "Unemployemnt Benefits" '
       f'in Web Search: ')
+```
+
 ### Bitcoin
 
 
@@ -83,6 +86,8 @@ print(f'Number of missing values: ')
 # Register date converters to avoid warning messages
 ### Tesla Stock Price v.s. Search Volume
 **Challenge:** Plot the Tesla stock price against the Tesla search volume using a line chart and two different axes. Label one axis 'TSLA Stock Price' and the other 'Search Trend'. 
+
+[stock image]()
 
 **Challenge**: Add colours to style the chart. This will help differentiate the two lines and the axis labels. Try using one of the blue [colour names](https://matplotlib.org/3.1.1/gallery/color/named_colors.html) for the search volume and a HEX code for a red colour for the stock price. 
 <br>
